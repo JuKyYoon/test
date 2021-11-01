@@ -1,0 +1,25 @@
+INSERT INTO AREA_CODE (idx, area) VALUES (2, "서울");
+INSERT INTO AREA_CODE (idx, area) VALUES (31, "경기");
+INSERT INTO AREA_CODE (idx, area) VALUES (32, "인천");
+INSERT INTO AREA_CODE (idx, area) VALUES (33, "강원");
+INSERT INTO AREA_CODE (idx, area) VALUES (41, "충남");
+INSERT INTO AREA_CODE (idx, area) VALUES (42, "대전");
+INSERT INTO AREA_CODE (idx, area) VALUES (43, "충북");
+INSERT INTO AREA_CODE (idx, area) VALUES (44, "세종");
+INSERT INTO AREA_CODE (idx, area) VALUES (51, "부산");
+INSERT INTO AREA_CODE (idx, area) VALUES (52, "울산");
+INSERT INTO AREA_CODE (idx, area) VALUES (53, "대구");
+INSERT INTO AREA_CODE (idx, area) VALUES (54, "경북");
+INSERT INTO AREA_CODE (idx, area) VALUES (55, "경남");
+INSERT INTO AREA_CODE (idx, area) VALUES (61, "전남");
+INSERT INTO AREA_CODE (idx, area) VALUES (62, "광주");
+INSERT INTO AREA_CODE (idx, area) VALUES (63, "전북");
+INSERT INTO AREA_CODE (idx, area) VALUES (64, "제주");
+
+INSERT INTO CATEGORY ( title ) VALUES ("포항/경주 출발");
+INSERT INTO CATEGORY ( title ) VALUES ("부산/경남 출발");
+INSERT INTO CATEGORY ( title ) VALUES ("대구 출발");
+INSERT INTO CATEGORY ( title ) VALUES ("울산/기타출발");
+INSERT INTO CATEGORY ( title ) VALUES ("특별/해외여행");
+INSERT INTO CATEGORY ( title ) VALUES ("1일 경주기행");
+INSERT INTO CATEGORY ( title ) VALUES ("교육강좌");
